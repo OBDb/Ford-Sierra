@@ -1,0 +1,10 @@
+generations:
+  - name: "First Generation (Pre-facelift)"
+    start_year: 1982
+    end_year: 1987
+    description: "The original Ford Sierra represented a radical departure from its predecessor, the Cortina/Taunus, featuring aerodynamic 'jelly mould' styling that was initially controversial but ultimately influential. Available in hatchback, sedan (Sapphire, from 1987), and estate (wagon) body styles, it was Ford's mainstream family car for Europe. The Sierra was primarily rear-wheel drive, unusual for its era when competitors were largely adopting front-wheel drive. Engine options included various 'Pinto' four-cylinder petrol engines, the Cologne V6, and later diesel options. Performance variants included the XR4i with its distinctive biplane rear spoiler and the limited-production Cosworth, which established a motorsport legacy. The interior was spacious and practical, reflecting its family car positioning. The bold styling initially faced consumer resistance, but the Sierra eventually became accepted and appreciated for its modern approach."
+
+  - name: "Second Generation (Facelift)"
+    start_year: 1987
+    end_year: 1993
+    description: "The facelifted Sierra featured softened styling with more conventional headlights replacing the original's flush units, a modified front end, and various detail changes to make it more appealing to conservative buyers. The Sapphire sedan variant was introduced alongside the existing hatchback and estate models. Engine options evolved to include more refined units, with the high-performance Sierra Cosworth developing into the legendary RS500 and later all-wheel drive versions. The interior received quality improvements and updated technology features. This generation consolidated the Sierra's position as a mainstream family car while expanding its performance credentials through successful motorsport variants. The Sierra was gradually phased out from 1993 as it was replaced by the Mondeo, marking the end of Ford's mainstream rear-wheel drive era in Europe. Throughout its production, approximately 2.7 million Sierras were sold, making it one of Ford Europe's most significant models of the 1980s."
